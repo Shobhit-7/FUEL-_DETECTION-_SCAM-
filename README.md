@@ -1,5 +1,5 @@
 # ⛽ Fuel Verify Pro – Smart Fuel Fraud Detection System
-
+Note : it's a prototype not a complete project .
 Live Demo: https://blue-hazel-70.tiiny.site
 
 Developed By: Shobhit Shukla
